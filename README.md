@@ -1,2 +1,1 @@
 # Kaggle
-## submit by yudegaki
